@@ -1,0 +1,5 @@
+Student name: AdamAbdallah
+Student age: BT1
+Stduent class: 17
+Stduent id: bt1a1
++-----------------+
